@@ -1,2 +1,6 @@
 *.exe
 .vscode
+Codeforces.*
+*.o
+bin
+obj
